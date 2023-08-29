@@ -7,23 +7,19 @@ To run the program, follow these steps:
 
 1. Clone the GitHub repository:
 ```
-  bash
   git clone [GitHub repository link]
 ```
 
 2. Open a terminal or command prompt and navigate to the cloned repository's directory:
 ```
-  bash
   cd [repository-directory]
 ```
 3. Compile the source code using a C++ compiler. For example:
 ```
-  css
   g++ -o product_management main.cpp BST.cpp electronics.cpp
 ```
 4. Run the compiled executable:
 ```
-  bash
   ./product_management
 ```
 #Usage
