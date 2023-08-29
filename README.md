@@ -7,16 +7,16 @@ To run the program, follow these steps:
 
 1. Clone the GitHub repository:
 ```
-  git clone [GitHub repository link]
+  git clone abdirizakduale/Online-Store-Simulation
 ```
 
 2. Open a terminal or command prompt and navigate to the cloned repository's directory:
 ```
-  cd [repository-directory]
+  cd Online-Store-Simulation
 ```
 3. Compile the source code using a C++ compiler. For example:
 ```
-  g++ -o product_management main.cpp BST.cpp electronics.cpp
+  g++ -o product_management *.cpp
 ```
 4. Run the compiled executable:
 ```
