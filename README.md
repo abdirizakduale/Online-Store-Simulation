@@ -1,4 +1,4 @@
-Product Management System
+# Product Management System
 
 This program is a Product Management System that allows users to interact with an inventory of products, make purchases, and manage their shopping cart. It utilizes a Binary Search Tree (BST) data structure for efficient storage and retrieval of products.
 Getting Started
