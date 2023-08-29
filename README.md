@@ -7,20 +7,20 @@ To run the program, follow these steps:
 
 1. Clone the GitHub repository:
 ```
-  git clone abdirizakduale/Online-Store-Simulation
+git clone abdirizakduale/Online-Store-Simulation
 ```
 
 2. Open a terminal or command prompt and navigate to the cloned repository's directory:
 ```
-  cd Online-Store-Simulation
+cd Online-Store-Simulation
 ```
 3. Compile the source code using a C++ compiler. For example:
 ```
-  g++ -o product_management *.cpp
+g++ -o product_management *.cpp
 ```
 4. Run the compiled executable:
 ```
-  ./product_management
+./product_management
 ```
 ## Usage
 
@@ -37,5 +37,5 @@ Upon running the program, you will be presented with a menu that offers various 
 
 ## Notes
 
-Ensure that you load the inventory before performing any other actions that involve products.
-Products removed from the inventory cannot be purchased. The program uses a Binary Search Tree (BST) data structure to manage the inventory efficiently.
+- Ensure that you load the inventory before performing any other actions that involve products.
+- Products removed from the inventory cannot be purchased. The program uses a Binary Search Tree (BST) data structure to manage the inventory efficiently.
