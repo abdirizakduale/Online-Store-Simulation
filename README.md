@@ -22,7 +22,7 @@ To run the program, follow these steps:
 ```
   ./product_management
 ```
-#Usage
+## Usage
 
 Upon running the program, you will be presented with a menu that offers various options for managing products, purchasing, and interacting with the shopping cart. These options include:
 
@@ -35,7 +35,7 @@ Upon running the program, you will be presented with a menu that offers various 
 7. Remove product from Shopping Cart: Remove a product from your shopping cart.
 8. Quit: Exit the program.
 
-Notes
+## Notes
 
 Ensure that you load the inventory before performing any other actions that involve products.
 Products removed from the inventory cannot be purchased. The program uses a Binary Search Tree (BST) data structure to manage the inventory efficiently.
