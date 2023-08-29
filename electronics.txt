@@ -1,0 +1,30 @@
+1001|Canon EOS Rebel T7i|799.99
+1002|Nikon D5600|649.00
+1003|Sony Alpha a6400|899.99
+1004|Fujifilm X-T4|1499.00d
+1005|Panasonic Lumix GH5|1397.99
+1006|Olympus OM-D E-M1 Mark III|1599.00
+1007|Canon PowerShot G7 X Mark III|749.00
+1008|Sony Cyber-shot RX100 VII|1298.00
+1009|Nikon COOLPIX P1000|999.95
+1010|GoPro HERO9 Black|349.99
+2001|ASUS ROG Strix G15|1299.99
+2002|Dell XPS 15|1599.99
+2003|Lenovo ThinkPad X1 Carbon|1899.99
+2004|HP Spectre x360|1299.99
+2005|Apple MacBook Pro 13|1799.99
+2006|Acer Predator Helios 300|1199.99
+2007|Microsoft Surface Laptop 4|1499.99
+2008|Razer Blade 15|2099.99
+2009|LG Gram 14|999.99
+2010|Alienware m15 R4|2299.99
+3001|Rolex Submariner|15000.00
+3002|TAG Heuer Carrera|12500.00
+3003|Omega Seamaster|9800.00
+3004|Patek Philippe Nautilus|35000.00
+3005|Cartier Santos|9800.00
+3006|Audemars Piguet Royal Oak|32000.00
+3007|Breitling Navitimer|8500.00
+3008|Seiko Prospex Diver|450.00
+3009|Citizen Eco-Drive|250.00
+3010|Za Watch|45.00
