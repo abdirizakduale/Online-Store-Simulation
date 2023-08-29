@@ -14,9 +14,9 @@ git clone abdirizakduale/Online-Store-Simulation
 ```
 cd Online-Store-Simulation
 ```
-3. Compile the source code using a C++ compiler. For example:
+3. Use the provided makefile to compile the source code:
 ```
-g++ -o product_management *.cpp
+make
 ```
 4. Run the compiled executable:
 ```
