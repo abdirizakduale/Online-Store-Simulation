@@ -26,7 +26,7 @@ g++ -o product_management *.cpp
 
 Upon running the program, you will be presented with a menu that offers various options for managing products, purchasing, and interacting with the shopping cart. These options include:
 
-1. Load the inventory: Load product information from a | separted file into the inventory.
+1. Load the inventory: Load product information from a | separated file into the inventory.
 2. Display the inventory: Display the list of available products in the inventory.
 3. Remove a product from the inventory: Remove a product from the inventory.
 4. Purchase a product: Add a product to your shopping cart and calculate its price.
