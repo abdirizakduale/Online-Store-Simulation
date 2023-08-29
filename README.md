@@ -1,2 +1,45 @@
-# Online-Store-Simulation
-# Online-Store-Simulation
+Product Management System
+
+This program is a Product Management System that allows users to interact with an inventory of products, make purchases, and manage their shopping cart. It utilizes a Binary Search Tree (BST) data structure for efficient storage and retrieval of products.
+Getting Started
+
+To run the program, follow these steps:
+
+1. Clone the GitHub repository:
+```
+  bash
+  git clone [GitHub repository link]
+```
+
+2. Open a terminal or command prompt and navigate to the cloned repository's directory:
+```
+  bash
+  cd [repository-directory]
+```
+3. Compile the source code using a C++ compiler. For example:
+```
+  css
+  g++ -o product_management main.cpp BST.cpp electronics.cpp
+```
+4. Run the compiled executable:
+```
+  bash
+  ./product_management
+```
+#Usage
+
+Upon running the program, you will be presented with a menu that offers various options for managing products, purchasing, and interacting with the shopping cart. These options include:
+
+1. Load the inventory: Load product information from a CSV file into the inventory.
+2. Display the inventory: Display the list of available products in the inventory.
+3. Remove a product from the inventory: Remove a product from the inventory.
+4. Purchase a product: Add a product to your shopping cart and calculate its price.
+5. Display shopping cart: View the products currently in your shopping cart.
+6. Recommend a product: Get recommendations for products similar to the one you're interested in.
+7. Remove product from Shopping Cart: Remove a product from your shopping cart.
+8. Quit: Exit the program.
+
+Notes
+
+Ensure that you load the inventory before performing any other actions that involve products.
+Products removed from the inventory cannot be purchased. The program uses a Binary Search Tree (BST) data structure to manage the inventory efficiently.
