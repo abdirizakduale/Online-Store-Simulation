@@ -6,21 +6,21 @@ Getting Started
 To run the program, follow these steps:
 
 1. Clone the GitHub repository:
-```
+```bash
 git clone abdirizakduale/Online-Store-Simulation
 ```
 
 2. Open a terminal or command prompt and navigate to the cloned repository's directory:
-```
+```bash
 cd Online-Store-Simulation
 ```
 3. Use the provided makefile to compile the source code:
-```
+```bash
 make
 ```
 4. Run the compiled executable:
-```
-./product_management
+```bash
+./exe
 ```
 ## Usage
 
